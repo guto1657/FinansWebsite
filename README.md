@@ -6,7 +6,7 @@
 Design of an interface for a website that disseminates an application. 
 </h4>
 
-![Resultado final do projeto](/img/resultado.jpg)
+![Resultado final do projeto](img/resultado.jpg)
 
 
 ## 🛠 Tecnologias utilizadas
