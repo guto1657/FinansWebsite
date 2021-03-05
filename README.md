@@ -6,9 +6,6 @@
 Design of an interface for a website that disseminates an application. 
 </h4>
 
-![Resultado final do projeto](/img/resultado.png)
-
-
 ## 🛠 Tecnologias utilizadas
 Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - Visual Studio Code (Editor de código);
