@@ -1,9 +1,9 @@
 <h1 align="center">
-💲<br>Finans Website. 
+📰 Portfólio.
 </h1>
 
 <h4 align="center">
-Design of an interface for a website that disseminates an application. 
+Portfólio onde coloco um pouco daquilo que estudo e desenvolvo.
 </h4>
 
 ## 🛠 Tecnologias utilizadas
@@ -11,6 +11,6 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - Visual Studio Code (Editor de código);
 - HTML5;
 - CSS3;
-- Bootstrap;
+- JavaScript;
 
 ---
